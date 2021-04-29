@@ -1,3 +1,2 @@
-# Erci
-Para Erci
-Programa feito para minha namorada poder olhar o coeficiente da sua faculdade
+# Calculador de Coeficiente
+Programa feito para poder calcular o coeficiente da sua faculdade/curso/escola
